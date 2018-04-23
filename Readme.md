@@ -1,0 +1,8 @@
+# ASPxMenu - How to bind menu items to plain data
+
+
+<p>This example demonstrates how to bind the <a href="https://documentation.devexpress.com/AspNet/3575/ASP-NET-WebForms-Controls/Site-Navigation-and-Layout/Menu/Overview/ASPxMenu-Overview">ASPxMenu</a> control to plain data stored in a DataTable. The <strong>CreateMenuRecursively</strong> method creates menu items recursively.<br>To build a hierarchical structure of items, create an extra column in your DataTable (for example, <strong>ParentID</strong> in this case) to keep the parent's ID column value.</p>
+
+<br/>
+
+
